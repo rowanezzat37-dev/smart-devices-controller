@@ -26,6 +26,6 @@ A Java-based Object-Oriented Programming (OOP) project that demonstrates the pow
 
 ## 👤 Author
 
-** Rowan Ezzat Mohamed** 
+** Rowan Ezzat** 
 Software Engineer & Data Science Student  
 - GitHub: [@rowanezzat37-dev](https://github.com/rowanezzat37-dev)
